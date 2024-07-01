@@ -26,7 +26,7 @@ author_profile: true
   * Stack: Python, Git, Internal Softwares, Excel, MySQL, REST APIs
 
 * June 2022 - August 2023, Paris: **Data Engineer**
-  * Mazars, Data Advisory Team,
+  * Mazars, Data Advisory Team
   * Architects: data lakes and warehouse
   * Develops: DQ controls using ML, a web application, Snowflake extensions, audit process pipelines using LLMs
   * Stack: AWS, Azure, Bash, Celery, CI/CD, ElasticSearch, Git, MongoDB, Python (Pandas/Scikit/Spacy/etc), Snowflake, SQL, Talend, VueJS
@@ -43,11 +43,6 @@ author_profile: true
   * Develops: Gateway API for multiple banking systems to be synchronized for a digital banking app.
   * Stack: CI/CD, Keycloak, Kotlin, OpenAPI, Spring
 
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 ## Skills
 * Open-Source Contribution: Developed and released a Python based CLI for Snowflake worksheet versioning (cf Github) 
