@@ -1,5 +1,5 @@
 ---
-title: 'Snowflake Worksheets Versioning made easy'
+title: '[Open Source] Snowflake Worksheets Versioning made easy'
 date: 2024-01-26
 permalink: /posts/2024/01/snowflake-versioning-easy/
 tags:

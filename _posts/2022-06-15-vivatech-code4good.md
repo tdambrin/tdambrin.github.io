@@ -1,5 +1,5 @@
 ---
-title: 'Code4Good with Ericsson - 3rd Prize'
+title: '[Hackathon] Code4Good with Ericsson - 3rd Prize'
 date: 2022-06-15
 permalink: /posts/2022/06/code4good-challenge/
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 'Synchronize your Snowflake worksheets with your Git repository'
+title: '[Open Source] Synchronize your Snowflake worksheets with your Git repository'
 date: 2024-01-31
 permalink: /posts/2024/01/snowflake-sync/
 tags:

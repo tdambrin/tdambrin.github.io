@@ -1,5 +1,5 @@
 ---
-title: 'Blackout Challenge with Safran - 3rd Prize'
+title: '[Hackaton] Blackout Challenge with Safran - 3rd Prize'
 date: 2021-05-01
 permalink: /posts/2021/05/blackout-challenge/
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 'HackAtHome with Accenture - 3rd Prize'
+title: '[Hackathon] HackAtHome with Accenture - 3rd Prize'
 date: 2021-05-20
 permalink: /posts/2021/05/hackathome/
 tags:
