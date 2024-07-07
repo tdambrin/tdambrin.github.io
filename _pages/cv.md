@@ -19,26 +19,28 @@ author_profile: true
 * M.S. in Telecommunication Engineering, National Institue of Applied Sciences (INSA) Lyon, 2022
 * Preparatory classes for Engineering, Polytech Chambery, 2019
 
+## Research
+* **Academic project -** [Studying heuristics to solve Bayesian Games through Linear Programs](/posts/2021/12/bayesian-games/) \| _Fall 2021_
+
 ## Work experience
-* September 2023 - Present, New York: **Quantitative Developer**
+* **Quantitative Developer** \| _September 2023 - Present,  New York_
   * Societe Generale Corporate and Investment Banking, Risk Division
   * Develops: tools to compute risk exposure (VaR/STT/etc), Python libraries used globally
   * Stack: Python, Git, Internal Softwares, Excel, MySQL, REST APIs
 
-* June 2022 - August 2023, Paris: **Data Engineer**
+* **Data Engineer** \| _June 2022 - August 2023, Paris_
   * Mazars, Data Advisory Team
   * Architects: data lakes and warehouse
   * Develops: DQ controls using ML, a web application, Snowflake extensions, audit process pipelines using LLMs
   * Stack: AWS, Azure, Bash, Celery, CI/CD, ElasticSearch, Git, MongoDB, Python (Pandas/Scikit/Spacy/etc), Snowflake, SQL, Talend, VueJS
 
-* September 2021 – December 2022, Lyon: **Software Engineer**
+* **Software Engineer** \| _September 2021 – December 2022, Lyon_ 
   * ETIC INSA Technologies (JE)
-  * Architects: data lakes and warehouse
   * Design, develops, deploy: vehicle maintenance website for a startup renting bikes.
   * Supervises: teams of SWEs for 2 projects
   * Stack: AngularJS, AWS (Beanstalk, RDS, S3), Javascript, PostgreSQL, Flask
 
-* May - August 2021, Lyon: **Backend Engineer Intern**
+* **Backend Engineer Intern** \| _May - August 2021, Lyon_
   * Worldline, Digital Banking Center
   * Develops: Gateway API for multiple banking systems to be synchronized for a digital banking app.
   * Stack: CI/CD, Keycloak, Kotlin, OpenAPI, Spring
