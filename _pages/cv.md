@@ -47,7 +47,7 @@ author_profile: true
 
   
 ## Skills
-* Open-Source Contribution: Developed and released a Python based CLI for Snowflake worksheet versioning (cf Github) 
+* Open-Source Contribution: CLI for Snowflake worksheet versioning (cf [Github](https://github.com/tdambrin/sf_git)) 
 * Cloud Components: AWS, Docker, Microsoft Azure, Snowflake
 * Frameworks: AngularJS, ELK Stack, Express, Spring, VueJS
 * Programming Languages: Ada, Bash, C, C++, Go, Haskell, HTML, Java, Javascript, Kotlin, Makefile, SQL, Typescript, Python 
