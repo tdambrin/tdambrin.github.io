@@ -10,19 +10,21 @@ author_profile: true
 {% include base_path %}
 
 ## PDF Version
+---
 
 [View](/files/resume.pdf) or Download on [GitHub](https://github.com/tdambrin/tdambrin.github.io/tree/master/files)
 
-## Website Version
-
-## Education
-* M.S. in Telecommunication Engineering, National Institue of Applied Sciences (INSA) Lyon, 2022
-* Preparatory classes for Engineering, Polytech Chambery, 2019
-
 ## Research
+---
 * **Academic project -** [Studying heuristics to solve Bayesian Games through Linear Programs](/posts/2021/12/bayesian-games/) \| _Fall 2021_
 
-## Work experience
+## Projects
+---
+* _Open-Source -_ Music graph visualizer: [App](http://tdambrin.github.io/sp-graph/) / [API](http://spotify-graph-api-4b00479b17ee.herokuapp.com/docs) / [Source](https://github.com/tdambrin/sp-graph)  \| _2024_
+* _Open-Source -_ CLI for Snowflake worksheet versioning (cf [Github](https://github.com/tdambrin/sf_git)) \| _2024_
+
+## Experience
+---
 * **Quantitative Developer** \| _September 2023 - Present,  New York_
   * Societe Generale Corporate and Investment Banking, Risk Division
   * Develops: tools to compute risk exposure (VaR/STT/etc), Python libraries used globally
@@ -45,9 +47,13 @@ author_profile: true
   * Develops: Gateway API for multiple banking systems to be synchronized for a digital banking app.
   * Stack: CI/CD, Keycloak, Kotlin, OpenAPI, Spring
 
+## Education
+---
+* M.S. in Telecommunication Engineering, National Institue of Applied Sciences (INSA) Lyon, 2022
+* Preparatory classes for Engineering, Polytech Chambery, 2019
   
 ## Skills
-* Open-Source Contribution: CLI for Snowflake worksheet versioning (cf [Github](https://github.com/tdambrin/sf_git)) 
+---
 * Cloud Components: AWS, Docker, Microsoft Azure, Snowflake
 * Frameworks: AngularJS, ELK Stack, Express, Spring, VueJS
 * Programming Languages: Ada, Bash, C, C++, Go, Haskell, HTML, Java, Javascript, Kotlin, Makefile, SQL, Typescript, Python 
