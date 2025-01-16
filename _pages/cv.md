@@ -20,7 +20,7 @@ author_profile: true
 
 ## Projects
 ---
-* _Open-Source -_ Music graph visualizer: [App](http://tdambrin.github.io/deezer-graph/) / [API](http://spotify-graph-api-4b00479b17ee.herokuapp.com/docs) / [Source](https://github.com/tdambrin/deezer-graph)  \| _2024_
+* _Open-Source -_ Music graph visualizer: [App](http://tdambrin.github.io/deezer-graph/) / [API](https://deezer-graph-api-38e2480498ba.herokuapp.com/docs) / [Source](https://github.com/tdambrin/deezer-graph)  \| _2024_
 * _Open-Source -_ CLI for Snowflake worksheet versioning (cf [Github](https://github.com/tdambrin/sf_git)) \| _2024_
 
 ## Experience
